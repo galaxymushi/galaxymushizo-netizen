@@ -7,7 +7,7 @@
 **Building technology that serves people, not just profit**
 
 [![Live Projects](https://img.shields.io/badge/Live-Projects-emerald?style=for-the-badge&logo=vercel&logoColor=white)](https://kodisalama.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-@galaxymushizo--netizen-black?style=for-the-badge&logo=github)](https://github.com/galaxymushizo-netizen)
+[![GitHub](https://img.shields.io/badge/GitHub-@galaxymushi-black?style=for-the-badge&logo=github)](https://github.com/galaxymushi)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emamsodoki@gmail.com)
 
 </div>
@@ -69,7 +69,7 @@ Nina uzoefu mkubwa katika kujenga applications za kisasa zinazosuluhisha matatiz
 
 <div align="center">
 
-**[🌐 LIVE APP](https://kodisalama.vercel.app)** · **[📦 Source Code](https://github.com/galaxymushizo-netizen/kodisalama)** · **[📋 Releases](https://github.com/galaxymushizo-netizen/kodisalama/releases)**
+**[🌐 LIVE APP](https://kodisalama.vercel.app)** · **[📦 Source Code](https://github.com/galaxymushi/kodisalama)** · **[📋 Releases](https://github.com/galaxymushi/kodisalama/releases)**
 
 </div>
 
@@ -102,7 +102,7 @@ Mfumo kamili wa **multi-tenant SaaS** wa usimamizi wa kodi za nyumba kwa wamilik
 
 <div align="center">
 
-**[🌐 LIVE DEMO](https://galaxymushizo-netizen.github.io/matokeo-platform/)** · **[📦 Source Code](https://github.com/galaxymushizo-netizen/matokeo-platform)**
+**[🌐 LIVE DEMO](https://galaxymushi.github.io/matokeo-platform/)** · **[📦 Source Code](https://github.com/galaxymushi/matokeo-platform)**
 
 </div>
 
@@ -130,19 +130,19 @@ Interactive dashboard ya kusimamia matokeo ya shule yenye analytics, PDF & Excel
 <tr>
 <td valign="top" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galaxymushizo-netizen&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galaxymushi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 </td>
 <td valign="top" width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxymushizo-netizen&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxymushi&layout=compact&theme=radical&hide_border=true)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=galaxymushizo-netizen&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=galaxymushi&theme=radical&hide_border=true)
 
 </td>
 </tr>
@@ -205,7 +205,7 @@ const currentFocus = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/galaxymushizo-netizen)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/galaxymushi)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emamsodoki@gmail.com)
 [![Live App](https://img.shields.io/badge/KodiSalama-emerald?style=for-the-badge&logo=vercel&logoColor=white)](https://kodisalama.vercel.app)
 
@@ -219,6 +219,6 @@ const currentFocus = {
 
 *From Tanzania, with ❤️*
 
-![Profile Views](https://komarev.com/ghpvc/?username=galaxymushizo-netizen&style=for-the-badge&color=emerald)
+![Profile Views](https://komarev.com/ghpvc/?username=galaxymushi&style=for-the-badge&color=emerald)
 
 </div>
